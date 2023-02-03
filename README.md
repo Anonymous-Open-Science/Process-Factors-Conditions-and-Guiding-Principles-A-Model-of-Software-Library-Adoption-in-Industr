@@ -1,5 +1,5 @@
-# Software-Library-Adoption-Process-and-Principles-in-the-Industry
-Replication Package for the Paper titled "Software Library Adoption Process and Principles in the Industry"
+# Software-Library-Adoption-Process-and-Principles-in-Industry
+Replication Package for the Paper titled "Software Library Adoption Process and Principles in Industry"
 
 1. This is the interview script submitted to Research Ethics Board for approval: 
 - "01. INTERVIEW-Interview Script.pdf"
