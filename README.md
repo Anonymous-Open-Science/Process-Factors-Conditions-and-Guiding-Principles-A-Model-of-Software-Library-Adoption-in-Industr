@@ -15,3 +15,5 @@ Replication Package for the Paper titled "Software Library Adoption Process and 
 - "06. EVALUATION-Member-check-response.pdf"
 7. Finally, we finished the draft of our study paper, we evaluated the study using the Grounded Theory study assessment criteria provided by Corbin and Strauss (2014). The following file contains all the questions for the 17 criteria and our response to those criteria.
 - "07. EVALUATION-GT-Study-Evaluation-Criteria.pdf"
+8. Following appendix file contains few images and tables that can help the readers better understand the paper:
+- "08. Appendix to Software Library Adoption Process and Principles in Industry.pdf"
